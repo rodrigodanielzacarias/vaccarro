@@ -12,6 +12,8 @@ STATUS: retorna status do hardware
 ABRE: envia comando para abrir a cancela
 FECHA: envia comando para fechar a cancela
 
+________________________________
+
 Comandos de configuração:
 
 Set Ip Local: SIL192.168.8.240 --> Altera o ip local para 192.168.8.240
