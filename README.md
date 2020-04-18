@@ -7,9 +7,13 @@ Versões:
 ________________________________
 
 Comandos:
+
 VER: retorna variavel versão ativa
+
 STATUS: retorna status do hardware
+
 ABRE: envia comando para abrir a cancela
+
 FECHA: envia comando para fechar a cancela
 
 ________________________________
