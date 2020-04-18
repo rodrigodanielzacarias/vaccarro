@@ -20,7 +20,7 @@ ________________________________
 
 # Comandos de configuração:
 
-Set Ip Local: SIL192.168.8.240 --> Altera o ip local para 192.168.8.240
+SILSIL192.168.8.240 --> Set Ip Local para 192.168.8.240
 
 SIG192.168.8.1 --> Set Ip Gateway para 192.168.8.1
 
